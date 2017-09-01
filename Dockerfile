@@ -5,7 +5,7 @@
 # Using my dceschmidt/openvpn-client image as base
 # CMD has been defined in base image
 
-FROM dceschmidt/openvpn-client:latest
+FROM olegfox/openvpn-client:latest
 MAINTAINER Diego Schmidt <dceschmidt@gmail.com>
 
 # Evironment variables
